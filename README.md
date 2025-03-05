@@ -14,8 +14,3 @@ Developed a Python algorithm to automate the management of IP address allow list
 
 ## Outcome
 Streamlined the process of managing IP address access, improving security and reducing manual effort.
-
-## How to Use
-1. Clone this repository.
-2. Navigate to the `ip-address-allow-list` folder.
-3. Run the script: `python manage_allow_list.py`.
